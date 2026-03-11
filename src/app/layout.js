@@ -27,7 +27,7 @@ export const metadata = {
   },
   description: 'Connecting Policy, Diplomacy, and Economy across the globe.',
   metadataBase: new URL(
-    process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'
+    process.env.NEXT_PUBLIC_SITE_URL || 'https://afroasiannews.com'
   ),
   openGraph: {
     siteName: 'Afro Asian News',
